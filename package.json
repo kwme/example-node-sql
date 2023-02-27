@@ -1,0 +1,24 @@
+{
+  "name": "example-node-sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwme/example-node-sql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwme/example-node-sql/issues"
+  },
+  "homepage": "https://github.com/kwme/example-node-sql#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.1.2"
+  }
+}
